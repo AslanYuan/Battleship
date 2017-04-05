@@ -15,6 +15,7 @@ public:
 	void arrangeShip();
 	void decideAttack(int[] board);
 	int getX();
+	int getY();
 };
 
 //#endif
